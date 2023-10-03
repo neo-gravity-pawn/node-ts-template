@@ -1,0 +1,1 @@
+export const hello = (t: string): string  => `Hello ${t}`;
